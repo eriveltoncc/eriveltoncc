@@ -44,9 +44,6 @@
 | [Herança](https://github.com/eriveltoncc/Heran-a) | Orientação a objetos em Object Pascal | Pascal |
 | [Beecrowd](https://github.com/eriveltoncc/Beecrowd) | Soluções de problemas do Beecrowd | JavaScript |
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eriveltoncc&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eriveltoncc&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
-</p>
+<p align="center"><i>Obrigado pela visita! Fique à vontade para se conectar comigo no LinkedIn.</i></p>
