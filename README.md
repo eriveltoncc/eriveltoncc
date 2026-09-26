@@ -13,7 +13,7 @@
 ### 🧑‍💻 Sobre mim
 
 - Desenvolvedor com foco em **Delphi / Object Pascal**, **C** e **bancos de dados (PostgreSQL, Firebird, SQL)**.
-- Professor universitário na **Unochapecó**, lecionando *Arquitetura e Organização de Computadores* para Sistemas de Informação, Ciência da Computação e Engenharia de Computação.
+- Professor universitário na **Horus Faculdade**, lecionando *Arquitetura e Organização de Computadores* para Sistemas de Informação, Ciência da Computação e Engenharia de Computação.
 - Experiência como implantador de sistemas contábeis/fiscais (Questor), com vivência em regras de negócio de escritórios de contabilidade.
 - Curto automatizar processos com **Python** e **n8n**.
 
